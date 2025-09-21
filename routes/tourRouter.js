@@ -16,4 +16,4 @@ router.get("/:tourId", getTourById);
 router.put("/:tourId", updateTour);
 router.delete("/:tourId", deleteTour);
 
-module.exports = router;
+module.exports = router ;
